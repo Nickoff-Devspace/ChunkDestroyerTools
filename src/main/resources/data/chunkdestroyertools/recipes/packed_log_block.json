@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "tag": "minecraft:logs"
+        }
+    },
+    "result": {
+        "item": "chunkdestroyertools:packed_log_block",
+        "count": 1
+    }
+}
