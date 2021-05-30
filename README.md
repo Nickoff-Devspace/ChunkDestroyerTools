@@ -4,31 +4,41 @@
 
 A minecraft mod that gives you a set of tools with volume effect.
 
-### GIFs
+## GIFs
 
-<img src="screenshots/pickaxe.gif">
+<figure>
+    <img src="screenshots/pickaxe.gif">
+      <em>An example of volume mining with the Diamond Chunk Pickaxe</em>
+</figure>
 
-An example of volume mining with the Diamond Chunk Pickaxe
+<br>
+<br>
 
-<img src="screenshots/shovel.gif">
+<figure>
+    <img src="screenshots/shovel.gif">
+    <em>An example of volume digging with the Diamond Chunk Shovel</em>
+</figure>
 
-An example of volume digging with the Diamond Chunk Shovel
+<br>
+<br>
 
-<img src="screenshots/axe.gif">
+<figure>
+    <img src="screenshots/axe.gif">
+    <em>An example of volume chopping with the Diamond Chunk Axe</em>
+</figure>
 
-An example of volume chopping with the Diamond Chunk Axe
+## Recipes
 
-### Recipes
-
-#### Packed Blocks
+### Packed Blocks
 
 The source material for building these tools are the Packed Blocks. A packed block is always crafted putting 9 blocks of the specific material for each tier into the crafting table.
 
-<img src="screenshots/packed_crafting.PNG">
+<figure>
+    <img src="screenshots/packed_crafting.PNG">
+    <em>An example of Packed Block crafting with the Packed Log Block.</em>
+</figure>
 
-An example of Packed Block crafting with the Packed Log Block.
-
-##### Available materials for packed blocks:
+#### Available materials for packed blocks:
 
 - Logs
 - Stone
@@ -37,16 +47,16 @@ An example of Packed Block crafting with the Packed Log Block.
 - Diamond Block
 - Netherite Block
 
-#### Chunk Tools
+### Chunk Tools
 
 After crafting these blocks, you'll be able to craft your chunk tools. All chunk tools use the same crafting shape as Minecraft default tools, only differing the material used to build them. 
 
+<figure>
+    <img src="screenshots/pickaxe_crafting.PNG">
+    <em>An example of Chunk Tool crafting with the Wooden Chunk Pickaxe.</em>
+</figure>
 
-<img src="screenshots/pickaxe_crafting.PNG">
-
-An example of Chunk Tool crafting with the Wooden Chunk Pickaxe.
-
-##### Resources for crafting each tool
+#### Resources for crafting each tool
 
 | Material | Stick | Head |
 | ---- | ----- | ---- |
@@ -57,11 +67,11 @@ An example of Chunk Tool crafting with the Wooden Chunk Pickaxe.
 | Diamond | Diamond | Packed Diamond Block |
 | Netherite | Netherite Ingot | Packed Netherite Block | 
       
-#### Tool Properties
+## Tool Properties
 
 Each tool has the same properties as the respective tool material of Minecraft default tools. However, as a volume tool, the chunk tools differ by their ranges.
 
-###### Ranges
+### Ranges
 
 | Material | Range (blocks) | Max Blocks Affected |
 | -------- | -------------- | ------------------- |
@@ -72,9 +82,9 @@ Each tool has the same properties as the respective tool material of Minecraft d
 | Diamond | 31 | 29791 |
 | Netherite| 81 | 531441 |
 
-#### Thanks
+## Thanks
 
-I hope you enjoy playing with this mod. Don't forget to subscribe to [my YouTube channel](https://www.youtube.com/c/Acreditesequisernickoff/videos) for any new mods and to give this repository as star.
+I hope you enjoy playing with this mod. Don't forget to subscribe to [my YouTube channel](https://www.youtube.com/c/Acreditesequisernickoff/videos) for any new mods and to give this repository a star.
 
 
 ❤️ Made with love by Nickoff
