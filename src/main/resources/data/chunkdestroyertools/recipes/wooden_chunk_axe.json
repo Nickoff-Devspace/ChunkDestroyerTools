@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "##",
+        "#n",
+        " n"
+    ],
+    "key": {
+        "#": {
+            "item": "chunkdestroyertools:packed_log_block"
+        },
+        "n": {
+            "tag": "minecraft:logs"
+        }
+    },
+    "result": {
+        "item": "chunkdestroyertools:wooden_chunk_axe",
+        "count": 1
+    }
+}

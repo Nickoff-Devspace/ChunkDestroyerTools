@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        " n ",
+        " n "
+    ],
+    "key": {
+        "#": {
+            "item": "chunkdestroyertools:packed_netherite_block"
+        },
+        "n": {
+            "item": "minecraft:netherite_ingot"
+        }
+    },
+    "result": {
+        "item": "chunkdestroyertools:netherite_chunk_pickaxe",
+        "count": 1
+    }
+}
