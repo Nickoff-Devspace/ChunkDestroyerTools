@@ -1,6 +1,6 @@
 # Chunk Destroyer Tools
 
-**_LET'S DIG THE WORLD!_**
+**_LET'S MAKE THE WORLD FLAT!_**
 
 A minecraft mod that gives you a set of tools with volume effect.
 
