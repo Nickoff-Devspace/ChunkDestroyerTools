@@ -6,15 +6,15 @@ A minecraft mod that gives you a set of tools with volume effect.
 
 ### GIFs
 
-![Mining](https://github.com/Nickoff-Devspace/ChunkDestroyerTools/blob/dev/screenshots/pickaxe.png)
+<img src="screenshots/pickaxe.gif">
 
 An example of volume mining with the Diamond Chunk Pickaxe
 
-![Digging](https://github.com/Nickoff-Devspace/ChunkDestroyerTools/blob/dev/screenshots/shovel.png)
+<img src="screenshots/shovel.gif">
 
 An example of volume digging with the Diamond Chunk Shovel
 
-![Chopping](https://github.com/Nickoff-Devspace/ChunkDestroyerTools/blob/dev/screenshots/shovel.png)
+<img src="screenshots/axe.gif">
 
 An example of volume chopping with the Diamond Chunk Axe
 
@@ -24,7 +24,7 @@ An example of volume chopping with the Diamond Chunk Axe
 
 The source material for building these tools are the Packed Blocks. A packed block is always crafted putting 9 blocks of the specific material for each tier into the crafting table.
 
-![Packed Block Crafting](https://github.com/Nickoff-Devspace/ChunkDestroyerTools/blob/dev/screenshots/packed_crafting.png)
+<img src="screenshots/packed_crafting.PNG">
 
 An example of Packed Block crafting with the Packed Log Block.
 
@@ -42,7 +42,7 @@ An example of Packed Block crafting with the Packed Log Block.
 After crafting these blocks, you'll be able to craft your chunk tools. All chunk tools use the same crafting shape as Minecraft default tools, only differing the material used to build them. 
 
 
-![Chunk Tool Crafting](https://github.com/Nickoff-Devspace/ChunkDestroyerTools/blob/dev/screenshots/pickaxe_crafting.png)
+<img src="screenshots/pickaxe_crafting.PNG">
 
 An example of Chunk Tool crafting with the Wooden Chunk Pickaxe.
 
