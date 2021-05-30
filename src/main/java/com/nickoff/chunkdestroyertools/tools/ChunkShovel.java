@@ -13,14 +13,14 @@ import net.minecraft.util.math.RayTraceContext;
 import net.minecraft.util.math.RayTraceResult;
 import net.minecraft.world.World;
 
-public class ChunkPickaxe extends PickaxeItem implements ChunkTool {
+public class ChunkShovel extends ShovelItem implements ChunkTool {
 
     private ItemStack itemStack;
     private int range;
 
-    public ChunkPickaxe(IItemTier tier, int range)
+    public ChunkShovel(IItemTier tier, int range)
     {
-        super(tier, 1, -2.8F, (new Item.Properties()).tab(ItemGroup.TAB_TOOLS));
+        super(tier, 1.5F, -3.0F, (new Properties()).tab(ItemGroup.TAB_TOOLS));
         this.range = range;
         this.itemStack = new ItemStack(this);
     }

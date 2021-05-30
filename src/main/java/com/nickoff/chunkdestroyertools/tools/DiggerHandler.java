@@ -148,7 +148,7 @@ class DigJob implements Iterator<Integer>
 
     public boolean canHarvestBlock(BlockState state)
     {
-        if (((ChunkPickaxe) tool).harvestCheck(state))
+        if (((ChunkTool) tool).harvestCheck(state))
             return true;
         return false;
     }

@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " #",
+        " n",
+        " n"
+    ],
+    "key": {
+        "#": {
+            "item": "chunkdestroyertools:packed_gold_block"
+        },
+        "n": {
+            "item": "minecraft:gold_ingot"
+        }
+    },
+    "result": {
+        "item": "chunkdestroyertools:golden_chunk_shovel",
+        "count": 1
+    }
+}

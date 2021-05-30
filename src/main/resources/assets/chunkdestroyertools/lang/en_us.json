@@ -6,6 +6,20 @@
   "item.chunkdestroyertools.diamond_chunk_pickaxe": "Diamond Chunk Pickaxe",
   "item.chunkdestroyertools.netherite_chunk_pickaxe": "Netherite Chunk Pickaxe",
 
+  "item.chunkdestroyertools.wooden_chunk_axe": "Wooden Chunk Axe",
+  "item.chunkdestroyertools.stone_chunk_axe": "Stone Chunk Axe",
+  "item.chunkdestroyertools.iron_chunk_axe": "Iron Chunk Axe",
+  "item.chunkdestroyertools.golden_chunk_axe": "Golden Chunk Axe",
+  "item.chunkdestroyertools.diamond_chunk_axe": "Diamond Chunk Axe",
+  "item.chunkdestroyertools.netherite_chunk_axe": "Netherite Chunk Axe",
+
+  "item.chunkdestroyertools.wooden_chunk_shovel": "Wooden Chunk Shovel",
+  "item.chunkdestroyertools.stone_chunk_shovel": "Stone Chunk Shovel",
+  "item.chunkdestroyertools.iron_chunk_shovel": "Iron Chunk Shovel",
+  "item.chunkdestroyertools.golden_chunk_shovel": "Golden Chunk Shovel",
+  "item.chunkdestroyertools.diamond_chunk_shovel": "Diamond Chunk Shovel",
+  "item.chunkdestroyertools.netherite_chunk_shovel": "Netherite Chunk Shovel",
+
   "block.chunkdestroyertools.packed_log_block": "Packed Log Block",
   "block.chunkdestroyertools.packed_stone_block": "Packed Stone Block",
   "block.chunkdestroyertools.packed_iron_block": "Packed Iron Block",

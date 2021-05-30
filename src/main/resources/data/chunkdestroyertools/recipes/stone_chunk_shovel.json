@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " #",
+        " n",
+        " n"
+    ],
+    "key": {
+        "#": {
+            "item": "chunkdestroyertools:stone_log_block"
+        },
+        "n": {
+            "item": "minecraft:stone"
+        }
+    },
+    "result": {
+        "item": "chunkdestroyertools:stone_chunk_shovel",
+        "count": 1
+    }
+}

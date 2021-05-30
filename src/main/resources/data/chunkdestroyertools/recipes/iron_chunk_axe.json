@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "##",
+        "#n",
+        " n"
+    ],
+    "key": {
+        "#": {
+            "item": "chunkdestroyertools:packed_iron_block"
+        },
+        "n": {
+            "item": "minecraft:iron_ingot"
+        }
+    },
+    "result": {
+        "item": "chunkdestroyertools:iron_chunk_axe",
+        "count": 1
+    }
+}
