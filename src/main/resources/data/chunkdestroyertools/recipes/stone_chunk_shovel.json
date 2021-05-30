@@ -7,7 +7,7 @@
     ],
     "key": {
         "#": {
-            "item": "chunkdestroyertools:stone_log_block"
+            "item": "chunkdestroyertools:packed_stone_block"
         },
         "n": {
             "item": "minecraft:stone"

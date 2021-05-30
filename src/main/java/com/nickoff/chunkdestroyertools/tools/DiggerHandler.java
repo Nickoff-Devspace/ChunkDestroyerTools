@@ -148,7 +148,7 @@ class DigJob implements Iterator<Integer>
 
     public boolean canHarvestBlock(BlockState state)
     {
-        if (((ChunkTool) tool).harvestCheck(state))
+        if (tool.isCorrectToolForDrops(state))
             return true;
         return false;
     }
@@ -222,7 +222,7 @@ public class DiggerHandler {
     {
         for (int key : drops.keySet()){
             for(ItemStack loot : loots.get(key)){
-                loot.setCount(drops.get(key));
+                loot.setCount(loot.getCount() * drops.get(key));
                 ItemEntity entity = new ItemEntity(world, x, y, z, loot);
                 entity.spawnAtLocation(entity.getItem());
             }
