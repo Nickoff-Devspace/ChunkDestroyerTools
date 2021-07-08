@@ -84,7 +84,7 @@ Each tool has the same properties as the respective tool material of Minecraft d
 
 ## Thanks
 
-I hope you enjoy playing with this mod. Don't forget to subscribe to [my YouTube channel](https://www.youtube.com/c/Acreditesequisernickoff/videos) for any new mods and to give this repository a star.
+I hope you enjoy playing with this mod. Don't forget to subscribe to [my YouTube channel](https://www.youtube.com/c/nickoff755/videos) for any new mods and to give this repository a star.
 
 
 ❤️ Made with love by Nickoff
